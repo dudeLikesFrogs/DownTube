@@ -22,4 +22,13 @@ We are not liable for the use of the downloaded files and explicitly warn again 
 <p>if you know any changes please let me know!!!</p>
 
 ## How to install
+### Windows
+First of all, this project mainly uses python so there are often Windowsefender-Issues when installing the application, because it thinks that the app is a trojan/virus.
+<b>I can assure you it is not! <br>
+<li>
+  <p>
+    1. Create a folder wich is not affected by the Windowsdefender
+  </p>
+
+</li>
 
