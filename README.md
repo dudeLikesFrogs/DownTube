@@ -30,7 +30,7 @@ First of all, this project mainly uses python so there are often Windowsefender-
   ++Create a folder wich is not affected by the Windowsdefender <br>
   1. create a folder preferably with the path "C:\Program Files (x86)\~name~" <br>
   (e.g. we use: "C:\Program Files (x86)\FrogCompany"): <br>
-  
+  ![Explorer](https://github.com/dudeLikesFrogs/DownTube/assets/165681321/fa4ccec5-478e-4ccd-bb31-487fecbfccaa)
   2. open commandprompt(cmd) and type in this command:
 
   ``` cmd
