@@ -70,5 +70,6 @@ First of all, this project mainly uses python so there are often Windowsefender-
 
 ## How to use
 
+<a href="https://github.com/dudeLikesFrogs/DownTube/blob/main/DocUsage.pdf">Documentation how to Use</a>
 
 
