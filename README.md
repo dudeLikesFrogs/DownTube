@@ -72,4 +72,8 @@ First of all, this project mainly uses python so there are often Windowsefender-
 
 <a href="https://github.com/dudeLikesFrogs/DownTube/blob/main/DocUsage.pdf">Documentation how to Use</a>
 
+## Terms of use 
+
+<a href="https://github.com/dudeLikesFrogs/DownTube/blob/main/AGBs.pdf">AGBs</a>
+
 
