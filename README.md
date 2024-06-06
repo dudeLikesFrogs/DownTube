@@ -52,17 +52,18 @@ First of all, this project mainly uses python so there are often Windowsefender-
   
   3. open the installer downloaded from this repository and change the installationpath to the created directory
      and leave everything else as default:
-
+     
      <br>![DownTubeSetupCustompath](gitImages/DownTubeSetupCustompath.png)
      <br>
      
        in this example:
      <br>![DownTubeSetupDefault](gitImages/DownTubeSetupDefault.png)
 
-  4. (recommended) add a desktopshortcut:
-      - go to the installationpath 'C:\Program Files (x86)\~Foldername~\DownTube\DownTube' or in this example 'C:\Program Files (x86)\FrogCompany\DownTube\DownTube':
+
+  5. (recommended) add a desktopshortcut:
+      - go to the installationpath 'C:\Program Files (x86)\~Foldername~\DownTube\DownTube'<br> or in this example 'C:\Program Files (x86)\FrogCompany\DownTube\DownTube':
      <br>![DesktopShortcut](gitImages/DesktopShortcut.png)
-      - click the 'createDesktopShortcut.bat' file and hit Enter to exit the commandprompt
+      - execute the 'createDesktopShortcut.bat' file and hit Enter to exit the commandprompt
 </p>
 
 
