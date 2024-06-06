@@ -49,7 +49,9 @@ First of all, this project mainly uses python so there are often Windowsefender-
   3. open the installer downloaded from this repository and change the installationpath to the created directory
      and leave everything else as default:
 
-     <br>![Explorer](gitImages/DownTube Setup Custompath.png)
+     <br>
+     
+     ![DownTubeSetupCustompath](gitImages/DownTubeSetupCustompath.png)
 </p>
 
 
