@@ -28,7 +28,9 @@ First of all, this project mainly uses python so there are often Windowsefender-
 
 <p>
   ++Create a folder wich is not affected by the Windowsdefender <br>
-  1. create a folder preferably with the path: "C:\Program Files (x86)\~name~" (e.g. we use: "C:\Program Files (x86)\FrogCompany") <br>
+  1. create a folder preferably with the path "C:\Program Files (x86)\~name~" <br>
+  (e.g. we use: "C:\Program Files (x86)\FrogCompany"): <br>
+  
   2. open commandprompt(cmd) and type in this command:
 
   ``` cmd
@@ -43,7 +45,7 @@ First of all, this project mainly uses python so there are often Windowsefender-
   ```
   <br>
   3. open the installer downloaded from this repository and change the installationpath to the created directory
-     and hit next on everything else:
+     and leave everything else as default:
   <img src=>
 </p>
 
