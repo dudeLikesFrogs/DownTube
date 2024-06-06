@@ -27,7 +27,9 @@ First of all, this project mainly uses python so there are often Windowsefender-
 <b>I can assure you it is not! <br>
 
 <p>
+  
   ++Create a folder wich is not affected by the Windowsdefender <br>
+  
   1. create a folder preferably with the path "C:\Program Files (x86)\~name~" <br>
   (e.g. we use: "C:\Program Files (x86)\FrogCompany"):
   
@@ -45,13 +47,22 @@ First of all, this project mainly uses python so there are often Windowsefender-
   ``` cmd
     powershell -Command "Add-MpPreference -ExclusionPath 'C:\Program Files (x86)\FrogCompany'"
   ```
+
+  ++Installation
   
   3. open the installer downloaded from this repository and change the installationpath to the created directory
      and leave everything else as default:
 
+     <br>![DownTubeSetupCustompath](gitImages/DownTubeSetupCustompath.png)
      <br>
      
-     ![DownTubeSetupCustompath](gitImages/DownTubeSetupCustompath.png)
+       in this example:
+     <br>![DownTubeSetupDefault](gitImages/DownTubeSetupDefault.png)
+
+  4. (recommended) add a desktopshortcut:
+      - go to the installationpath 'C:\Program Files (x86)\~Foldername~\DownTube\DownTube' or in this example 'C:\Program Files (x86)\FrogCompany\DownTube\DownTube':
+     <br>![DesktopShortcut](gitImages/DesktopShortcut.png)
+      - click the 'createDesktopShortcut.bat' file and hit Enter to exit the commandprompt
 </p>
 
 
