@@ -76,4 +76,8 @@ First of all, this project mainly uses python so there are often Windowsefender-
 
 <a href="https://github.com/dudeLikesFrogs/DownTube/blob/main/AGBs.pdf">AGBs</a>
 
+## Version/Release
+
+version 1.0 comming soon...
+
 
